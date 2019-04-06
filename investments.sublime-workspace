@@ -1,0 +1,512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"router",
+				"router_id"
+			],
+			[
+				"p",
+				"packet_data"
+			],
+			[
+				"print",
+				"printInfoBase"
+			],
+			[
+				"info",
+				"infoBase"
+			],
+			[
+				"PKT",
+				"pkt_LSPDU"
+			],
+			[
+				"L",
+				"LSPDU_packet"
+			],
+			[
+				"nei",
+				"neighbour"
+			],
+			[
+				"packet_",
+				"packet_data"
+			],
+			[
+				"link",
+				"link_id"
+			],
+			[
+				"rout",
+				"router_id"
+			],
+			[
+				"to",
+				"toByte"
+			],
+			[
+				"circuit",
+				"circuit_DB"
+			],
+			[
+				"min",
+				"minWeightNode"
+			],
+			[
+				"neig",
+				"neighbourNode"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"update",
+				"updateEntry"
+			],
+			[
+				"seq",
+				"seqLog"
+			],
+			[
+				"send",
+				"sendSocket"
+			],
+			[
+				"pack",
+				"packetBuff"
+			],
+			[
+				"output",
+				"outputFile"
+			],
+			[
+				"expe",
+				"expectedSeqNum"
+			],
+			[
+				"create",
+				"createACK"
+			],
+			[
+				"get",
+				"getSeqNum"
+			],
+			[
+				"window",
+				"windowSize"
+			],
+			[
+				"packet",
+				"packetBuffer"
+			],
+			[
+				"ack",
+				"ackLog"
+			],
+			[
+				"propert",
+				"propertyName"
+			],
+			[
+				"train",
+				"trainLabels"
+			],
+			[
+				"word",
+				"wordFeature"
+			],
+			[
+				"num",
+				"numArticles"
+			],
+			[
+				"trave",
+				"traveller"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"path",
+				"pathToLeaf"
+			],
+			[
+				"t",
+				"try\tTry/Except/Else/Finally"
+			],
+			[
+				"book",
+				"bookorjournal"
+			],
+			[
+				"appears",
+				"appearsin"
+			],
+			[
+				"pub",
+				"pubid"
+			],
+			[
+				"C",
+				"CLOSE"
+			],
+			[
+				"start",
+				"start_page"
+			],
+			[
+				"end",
+				"end_page"
+			],
+			[
+				"sql",
+				"sqlstmt"
+			],
+			[
+				"raw",
+				"rawGoal"
+			],
+			[
+				"ra",
+				"rawGoal"
+			],
+			[
+				"cog",
+				"cognition"
+			],
+			[
+				"SQL",
+				"SQLERROR"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jerrymiu/Desktop/Python Coding Samples/decompress.py",
+		"/Users/jerrymiu/Desktop/cs456a3/router.py",
+		"/Users/jerrymiu/Desktop/a3/message.txt",
+		"/Users/jerrymiu/Desktop/a3/router",
+		"/Users/jerrymiu/Desktop/a3/packetFuncs.py",
+		"/Users/jerrymiu/Desktop/a3/makefile",
+		"/Users/jerrymiu/Desktop/a3/README.txt",
+		"/Users/jerrymiu/Desktop/a3/db.py",
+		"/Users/jerrymiu/Desktop/a3/router.py",
+		"/Users/jerrymiu/Desktop/a3/packet.py",
+		"/Users/jerrymiu/Desktop/database.py",
+		"/Users/jerrymiu/Desktop/a3/packetOperations.py",
+		"/Users/jerrymiu/Desktop/makefile",
+		"/Users/jerrymiu/Desktop/router.py",
+		"/Users/jerrymiu/Desktop/Algorithms100Days/day6postfixNotification.py",
+		"/Users/jerrymiu/Desktop/Algorithms100Days/sieveEratosthenes.py",
+		"/Users/jerrymiu/Desktop/day4count1bits.py",
+		"/Users/jerrymiu/Desktop/permute.py",
+		"/Users/jerrymiu/Desktop/4cinsightsproposal",
+		"/Users/jerrymiu/Desktop/matrix.py",
+		"/Users/jerrymiu/Downloads/challenge/Jerry_Miu_solve.py",
+		"/Users/jerrymiu/Desktop/test.py",
+		"/Users/jerrymiu/OneDrive - University of Waterloo/Projects/personal-site/index.html",
+		"/Users/jerrymiu/OneDrive - University of Waterloo/Projects/personal-site/projects.html",
+		"/Users/jerrymiu/Downloads/html5up-massively/index.html",
+		"/Users/jerrymiu/Desktop/CS 458/a2/Questions for 4C insights",
+		"/Users/jerrymiu/Desktop/CS 458/a2/exploit1_a/exploit.sh",
+		"/Users/jerrymiu/Desktop/CS 456/a2/asdkfjhalskdjfh askdjfhalskdjfha asfh392 3434 asdf",
+		"/Users/jerrymiu/Desktop/CS 456/a2/packet.py",
+		"/Users/jerrymiu/Desktop/CS 456/a2/sender.py",
+		"/Users/jerrymiu/Desktop/CS 456/a2/readme.txt",
+		"/Users/jerrymiu/Desktop/CS 456/a2/receiver.py",
+		"/Users/jerrymiu/Desktop/CS 456/a2/sample.txt",
+		"/Users/jerrymiu/Desktop/CS 456/a2/customTimer.py",
+		"/Users/jerrymiu/Desktop/CS 456/a2/sender.java",
+		"/Users/jerrymiu/Desktop/CS 456/a2/timer.py",
+		"/Users/jerrymiu/Desktop/CS 456/a2/testsender.py",
+		"/Users/jerrymiu/Desktop/CS 456/a2/testreceiver.py",
+		"/Users/jerrymiu/Desktop/CS 456/a2/receiver.java",
+		"/Users/jerrymiu/Desktop/CS 456/a2/packet.java",
+		"/Users/jerrymiu/Desktop/constants.java",
+		"/Users/jerrymiu/Desktop/4c",
+		"/Users/jerrymiu/Desktop/NLPNotes.txt",
+		"/Users/jerrymiu/Desktop/sila/app.py",
+		"/Users/jerrymiu/Desktop/purestorage.py",
+		"/Users/jerrymiu/Desktop/notminesender.java",
+		"/Users/jerrymiu/Desktop/sila/curl",
+		"/Users/jerrymiu/Desktop/sila/untitled.py",
+		"/Users/jerrymiu/Desktop/sila/billsOfMaterials.py",
+		"/Users/jerrymiu/Desktop/sila/penTest.py",
+		"/Users/jerrymiu/Desktop/dictionary.html",
+		"/Users/jerrymiu/Desktop/test.js",
+		"/Users/jerrymiu/Desktop/primeCheck.py",
+		"/Users/jerrymiu/Desktop/longestCommonSub().py",
+		"/Users/jerrymiu/Desktop/app.py",
+		"/Users/jerrymiu/Desktop/specifications",
+		"/Users/jerrymiu/Desktop/README.txt",
+		"/Users/jerrymiu/Desktop/datasets/response",
+		"/Users/jerrymiu/Desktop/datasets/entropies.txt",
+		"/Users/jerrymiu/Desktop/datasets/decisionTree.py",
+		"/Users/jerrymiu/Desktop/window.location.pathname",
+		"/Users/jerrymiu/Desktop/a2.txt",
+		"/Users/jerrymiu/OneDrive - University of Waterloo/school/3B/CS 486/Q2VariableElimination.py",
+		"/Users/jerrymiu/Downloads/Assignment1 Scripts/README.txt",
+		"/Users/jerrymiu/Downloads/Assignment1 Scripts/client.sh",
+		"/Users/jerrymiu/Downloads/Assignment1 Scripts/server.sh",
+		"/Users/jerrymiu/Downloads/Assignment1 Scripts/client.py",
+		"/Users/jerrymiu/Downloads/Assignment1 Scripts/server.py",
+		"/Users/jerrymiu/Downloads/Assignment1 Scripts/echoserver.py",
+		"/Users/jerrymiu/Downloads/Assignment1 Scripts/echoclient.py",
+		"/Users/jerrymiu/Desktop/sploit3.c",
+		"/Users/jerrymiu/Desktop/CS 458/sploit3test.c",
+		"/Users/jerrymiu/Desktop/CS 458/sploit3",
+		"/Users/jerrymiu/Desktop/CS 458/a1",
+		"/Users/jerrymiu/Desktop/CS 458/shellcode.h",
+		"/Users/jerrymiu/Desktop/CS 458/parse_args",
+		"/Users/jerrymiu/Desktop/resumeClassification.py",
+		"/Users/jerrymiu/Desktop/addBinary.py",
+		"/Users/jerrymiu/Desktop/decompress.py",
+		"/Users/jerrymiu/Desktop/te/tsploit3.c",
+		"/Users/jerrymiu/Desktop/resumeClassifier/stuff.py",
+		"/Users/jerrymiu/Desktop/resumeClassifier/techResume",
+		"/Users/jerrymiu/Desktop/resumeClassifier/resumeClassifier.py",
+		"/Users/jerrymiu/Desktop/te/chineseStemmer.py",
+		"/Users/jerrymiu/Desktop/te/infodistcreds.txt",
+		"/Users/jerrymiu/Desktop/te/segfault",
+		"/Users/jerrymiu/Desktop/te/sploit3",
+		"/Users/jerrymiu/Desktop/te/fizzBuz.py",
+		"/Users/jerrymiu/Desktop/te/addBinary.py",
+		"/Users/jerrymiu/Desktop/te/pwgen.c",
+		"/Users/jerrymiu/Desktop/yelpApp.py",
+		"/Users/jerrymiu/Desktop/testtravel.py",
+		"/Users/jerrymiu/Desktop/sickTravellers.py",
+		"/Users/jerrymiu/Desktop/te/resumeClassification.py",
+		"/Users/jerrymiu/Desktop/Primer Questions",
+		"/Users/jerrymiu/Desktop/sploit2.c",
+		"/Users/jerrymiu/Desktop/sploit1.c",
+		"/Users/jerrymiu/Downloads/sploit2Test.out",
+		"/Users/jerrymiu/Desktop/reverseString.py",
+		"/Users/jerrymiu/Desktop/monarch.py",
+		"/Users/jerrymiu/Desktop/traverse.py",
+		"/Users/jerrymiu/Desktop/testnotes",
+		"/Users/jerrymiu/Desktop/Notes for networks",
+		"/Users/jerrymiu/Desktop/defitions",
+		"/Users/jerrymiu/Desktop/TOdo 2",
+		"/Users/jerrymiu/Desktop/Goal",
+		"/Users/jerrymiu/Desktop/Fintech will continue to become more crucial as mo",
+		"/Users/jerrymiu/Desktop/test",
+		"/Users/jerrymiu/Desktop/overflowtext.c",
+		"/Users/jerrymiu/Desktop/main",
+		"/Users/jerrymiu/Desktop/parse_args",
+		"/Users/jerrymiu/Desktop/a1cs458",
+		"/Users/jerrymiu/Desktop/Navtalent",
+		"/Users/jerrymiu/Desktop/CopyText",
+		"/Users/jerrymiu/Desktop/disjointSets",
+		"/Users/jerrymiu/Desktop/TOdo",
+		"/Users/jerrymiu/Desktop/a1",
+		"/Users/jerrymiu/Desktop/CS450ComputerArchitecture.txt",
+		"/Users/jerrymiu/Desktop/CS458Security.txt",
+		"/Users/jerrymiu/Desktop/CS456Networks.txt",
+		"/Users/jerrymiu/OneDrive - University of Waterloo/Projects/personal-site/.eslintrc.json",
+		"/Users/jerrymiu/OneDrive - University of Waterloo/Projects/personal-site/src/components/Hewwo.js",
+		"/Users/jerrymiu/OneDrive - University of Waterloo/Projects/personal-site/src/App.test.js",
+		"/Users/jerrymiu/OneDrive - University of Waterloo/Projects/personal-site/src/components/Welcome.js",
+		"/Users/jerrymiu/OneDrive - University of Waterloo/Projects/personal-site/src/App.js",
+		"/Users/jerrymiu/OneDrive - University of Waterloo/Projects/personal-site/src/App.css",
+		"/Users/jerrymiu/Downloads/create-a-form-element.json",
+		"/Users/jerrymiu/Downloads/nohzdyve.tap"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"index.js",
+				"src/index.js"
+			],
+			[
+				"welcome",
+				"src/components/Welcome.js"
+			],
+			[
+				"projects.js",
+				"src/components/Projects.js"
+			],
+			[
+				"navbar",
+				"src/components/NavBar.js"
+			],
+			[
+				"hewwo",
+				"src/components/Hewwo.js"
+			],
+			[
+				"app.test.js",
+				"src/App.test.js"
+			],
+			[
+				"app.js",
+				"src/App.js"
+			],
+			[
+				"about",
+				"src/components/About.js"
+			],
+			[
+				"app.",
+				"src/App.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
